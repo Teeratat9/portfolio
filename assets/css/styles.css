@@ -362,16 +362,28 @@ img {
     width: 50%;
 }
 
+.skills__C {
+    width: 70%;
+}
+
+.skills__Arduino {
+    width: 60%;
+}
+
+.skills__ROS {
+    width: 50%;
+}
+
 .skills__css {
     width: 50%;
 }
 
 .skills__js {
-    width: 20%;
+    width: 30%;
 }
 
 .skills__ux {
-    width: 85%;
+    width: 30%;
 }
 
 .skills__img {
